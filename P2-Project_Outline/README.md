@@ -21,8 +21,8 @@ animals? The shelter is woefully understaffed and underfunded.  The shelter coul
 ### Features
 Some asks:  The app should drive the collection of data, e.g., animal behavior, animal health (do they need to see a vet?), volunteer provided animal training (teaching to walk on leash/take treats gently), bathroom habits (did they pee/poop on their walk), treats given (how many, what kind, favorites?), whether or not food in kennel has been eaten, animal socialization (Do they like other dogs? Are they candidate for play group?), etc. This information will benefit the health and safety of the volunteers as well as increase the chance for a good outcome for the animal.  Volunteers that know in advance if an animal is fearful or agitated will know to keep an eye on the "bitey end" of the animal.  Animals that bite, even if accidentally, are usually put down so avoiding this at all costs is paramount.  Animals that are noted as being well behaved and healthy have a better chance of being pulled by a no-kill rescue or adopted outright from the shelter.  Should be mobile, QR Code reader, authenticator, links to information.
 ### Technologies
-TBD
+JavaScript/Java/SpringBoot?
 ### What I'll Have to Learn
-Include what you will need to learn here
+Everything!
 ### Project Tracker
 https://trello.com/b/9zuxEi3D/agile-sprint-board
